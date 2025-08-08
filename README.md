@@ -2,6 +2,8 @@
 
 ## 개요
     지니어스에서 뭘 학습해야할지 모르겠어요..라는 고민을 해결하기 위한 사용자 맞춤형 교육 추천 챗봇
+<img width="835" height="734" alt="image" src="https://github.com/user-attachments/assets/94028f56-9514-4c5e-9708-ca0786d098b1" />
+
 <br>
 
 ## 환경 변수(.env)
@@ -62,5 +64,8 @@ python -m streamlit run ./genius_chat.py --server.port 8000 --server.address 0.0
 ```
 bash /home/site/wwwroot/streamlit.sh
 ```
+
+<img width="1565" height="802" alt="화면 캡처 2025-08-08 094550" src="https://github.com/user-attachments/assets/7f5c3a84-7959-4f12-87a1-f39be163c666" />
+
 
 ◎ 배포 이후 WebApp을 다시시작한다.
