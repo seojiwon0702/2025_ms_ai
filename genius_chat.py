@@ -2,13 +2,7 @@ import openai
 import streamlit as st
 import os
 import psycopg2
-import requests
 from dotenv import load_dotenv
-from langchain_community.retrievers import AzureAISearchRetriever
-from langchain_openai import AzureChatOpenAI
-from langchain_core.output_parsers import StrOutputParser
-from langchain_core.prompts import ChatPromptTemplate
-from langchain_core.runnables import RunnablePassthrough
 
 load_dotenv()
 
