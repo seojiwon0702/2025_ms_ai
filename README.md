@@ -1,4 +1,9 @@
 # 지니어스 학습 추천 챗봇
+<details>
+  <summary> genius chatbot </summary>
+
+https://support-genius-g6ava6hsc0f5fyed.westus3-01.azurewebsites.net/
+</details>
 
 ## 개요
     지니어스에서 뭘 학습해야할지 모르겠어요..라는 고민을 해결하기 위한 사용자 맞춤형 교육 추천 챗봇
