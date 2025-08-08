@@ -56,7 +56,7 @@ class DatabaseManager:
                 FROM tb_cont c
                 JOIN tb_cont_user cu ON c.cont_id = cu.cont_id
                 WHERE cu.user_id = %s
-                ORDER BY cu.educ_sts_cd DESC, c.cont_lvl
+                ORDER BY cu.upd_tm desc, c.cont_lvl
             """
             cursor.execute(query, (user_id,))
             results = cursor.fetchall()
